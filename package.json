@@ -1,0 +1,16 @@
+{
+  "name": "@micro-dash-performance/root",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:micro-ux/micro-dash-performance.git",
+  "author": "Nischith BM <nischithbm@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@micro-ux/micro-dash": "0.0.10",
+    "benchmark": "2.1.4",
+    "lodash": "4.17.20",
+    "microtime": "3.0.0",
+    "prettier": "2.1.2"
+  }
+}
